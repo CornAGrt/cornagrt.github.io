@@ -6,6 +6,6 @@ author: CornAGrt
 github_username: CornAGrt
 
 # Build settings
-theme: minima
+theme: jekyll-theme-chirpy
 plugins:
   - jekyll-feed
